@@ -1,0 +1,8 @@
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.deps.json
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.dll
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.pdb
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.csproj.CoreCompileInputs.cache
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.AssemblyInfoInputs.cache
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.AssemblyInfo.cs
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.dll
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.pdb

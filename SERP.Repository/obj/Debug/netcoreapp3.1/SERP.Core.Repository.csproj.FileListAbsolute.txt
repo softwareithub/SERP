@@ -1,0 +1,17 @@
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Repository.deps.json
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Repository.runtimeconfig.json
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Repository.runtimeconfig.dev.json
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Repository.dll
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Repository.pdb
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Entities.dll
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.dll
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.Entities.pdb
+E:\SERPAPI\SERP\SERP.Repository\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.pdb
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.csprojAssemblyReference.cache
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.csproj.CoreCompileInputs.cache
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.AssemblyInfoInputs.cache
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.AssemblyInfo.cs
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.csproj.CopyComplete
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.dll
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.pdb
+E:\SERPAPI\SERP\SERP.Repository\obj\Debug\netcoreapp3.1\SERP.Core.Repository.genruntimeconfig.cache

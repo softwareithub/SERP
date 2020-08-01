@@ -1,0 +1,9 @@
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\bin\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.deps.json
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\bin\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.dll
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\bin\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.pdb
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\obj\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.csproj.CoreCompileInputs.cache
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\obj\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.AssemblyInfoInputs.cache
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\obj\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.AssemblyInfo.cs
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\obj\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.dll
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\obj\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.pdb
+E:\SERPAPI\SERP\SERP.Infrastrcture.Logging\obj\Debug\netcoreapp3.1\SERP.Infrastrcture.Logging.csprojAssemblyReference.cache
