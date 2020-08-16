@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SERP.Core.Entities\SERP.Core.Entities.csproj" />
+    <ProjectReference Include="..\SERP.Core.ViewModelEntities\SERP.Core.ViewModelEntities.csproj" />
   </ItemGroup>
 
 </Project>

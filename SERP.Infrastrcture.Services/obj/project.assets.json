@@ -1397,7 +1397,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "SERP.Core.Entities": "1.0.0"
+          "SERP.Core.Entities": "1.0.0",
+          "SERP.Core.ViewModelEntities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SERP.Core.Services.dll": {}

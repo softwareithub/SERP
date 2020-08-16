@@ -13,3 +13,5 @@ E:\SERPAPI\SERP\SERP.Services\obj\Debug\netcoreapp3.1\SERP.Core.Services.dll
 E:\SERPAPI\SERP\SERP.Services\obj\Debug\netcoreapp3.1\SERP.Core.Services.pdb
 E:\SERPAPI\SERP\SERP.Services\obj\Debug\netcoreapp3.1\SERP.Core.Services.genruntimeconfig.cache
 E:\SERPAPI\SERP\SERP.Services\obj\Debug\netcoreapp3.1\SERP.Core.Services.csprojAssemblyReference.cache
+E:\SERPAPI\SERP\SERP.Services\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.dll
+E:\SERPAPI\SERP\SERP.Services\bin\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.pdb

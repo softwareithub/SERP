@@ -1378,6 +1378,16 @@
         "runtime": {
           "bin/placeholder/SERP.Core.Entities.dll": {}
         }
+      },
+      "SERP.Core.ViewModelEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SERP.Core.ViewModelEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SERP.Core.ViewModelEntities.dll": {}
+        }
       }
     }
   },
@@ -5343,11 +5353,17 @@
       "type": "project",
       "path": "../SERP.Core.Entities/SERP.Core.Entities.csproj",
       "msbuildProject": "../SERP.Core.Entities/SERP.Core.Entities.csproj"
+    },
+    "SERP.Core.ViewModelEntities/1.0.0": {
+      "type": "project",
+      "path": "../SERP.Core.ViewModelEntities/SERP.Core.ViewModelEntities.csproj",
+      "msbuildProject": "../SERP.Core.ViewModelEntities/SERP.Core.ViewModelEntities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "SERP.Core.Entities >= 1.0.0"
+      "SERP.Core.Entities >= 1.0.0",
+      "SERP.Core.ViewModelEntities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5385,6 +5401,9 @@
           "projectReferences": {
             "E:\\SERPAPI\\SERP\\SERP.Core.Entities\\SERP.Core.Entities.csproj": {
               "projectPath": "E:\\SERPAPI\\SERP\\SERP.Core.Entities\\SERP.Core.Entities.csproj"
+            },
+            "E:\\SERPAPI\\SERP\\SERP.Core.ViewModelEntities\\SERP.Core.ViewModelEntities.csproj": {
+              "projectPath": "E:\\SERPAPI\\SERP\\SERP.Core.ViewModelEntities\\SERP.Core.ViewModelEntities.csproj"
             }
           }
         }

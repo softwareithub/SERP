@@ -292,6 +292,9 @@
             "projectReferences": {
               "E:\\SERPAPI\\SERP\\SERP.Core.Entities\\SERP.Core.Entities.csproj": {
                 "projectPath": "E:\\SERPAPI\\SERP\\SERP.Core.Entities\\SERP.Core.Entities.csproj"
+              },
+              "E:\\SERPAPI\\SERP\\SERP.Core.ViewModelEntities\\SERP.Core.ViewModelEntities.csproj": {
+                "projectPath": "E:\\SERPAPI\\SERP\\SERP.Core.ViewModelEntities\\SERP.Core.ViewModelEntities.csproj"
               }
             }
           }

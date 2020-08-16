@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SERP.Core.ViewModelEntities/1.0.0": {
+        "runtime": {
+          "SERP.Core.ViewModelEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SERP.Core.ViewModelEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

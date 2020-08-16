@@ -1,0 +1,12 @@
+E:\SERPAPI\SERP\SERP.Core.Entities\bin\Release\netcoreapp3.1\SERP.Core.Entities.deps.json
+E:\SERPAPI\SERP\SERP.Core.Entities\bin\Release\netcoreapp3.1\SERP.Core.Entities.runtimeconfig.json
+E:\SERPAPI\SERP\SERP.Core.Entities\bin\Release\netcoreapp3.1\SERP.Core.Entities.runtimeconfig.dev.json
+E:\SERPAPI\SERP\SERP.Core.Entities\bin\Release\netcoreapp3.1\SERP.Core.Entities.dll
+E:\SERPAPI\SERP\SERP.Core.Entities\bin\Release\netcoreapp3.1\SERP.Core.Entities.pdb
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.csprojAssemblyReference.cache
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.csproj.CoreCompileInputs.cache
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.AssemblyInfoInputs.cache
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.AssemblyInfo.cs
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.dll
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.pdb
+E:\SERPAPI\SERP\SERP.Core.Entities\obj\Release\netcoreapp3.1\SERP.Core.Entities.genruntimeconfig.cache

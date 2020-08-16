@@ -1,0 +1,17 @@
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Services.deps.json
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Services.runtimeconfig.json
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Services.runtimeconfig.dev.json
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Services.dll
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Services.pdb
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Entities.dll
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.ViewModelEntities.dll
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.Entities.pdb
+E:\SERPAPI\SERP\SERP.Services\bin\Release\netcoreapp3.1\SERP.Core.ViewModelEntities.pdb
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.csprojAssemblyReference.cache
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.csproj.CoreCompileInputs.cache
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.AssemblyInfoInputs.cache
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.AssemblyInfo.cs
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.csproj.CopyComplete
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.dll
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.pdb
+E:\SERPAPI\SERP\SERP.Services\obj\Release\netcoreapp3.1\SERP.Core.Services.genruntimeconfig.cache

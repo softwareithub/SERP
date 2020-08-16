@@ -6,3 +6,4 @@ E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.Vi
 E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.AssemblyInfo.cs
 E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.dll
 E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.pdb
+E:\SERPAPI\SERP\SERP.Core.ViewModelEntities\obj\Debug\netcoreapp3.1\SERP.Core.ViewModelEntities.csprojAssemblyReference.cache
